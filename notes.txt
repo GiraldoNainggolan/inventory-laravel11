@@ -1,0 +1,16 @@
+Home
+
+Inventory
+	add Item
+	item list(edit , delete, tracking{no of stocks available})
+Sale
+	sale order
+	sale list(edit , delete, tracking{no of stocks available})
+	customer list(edit , delete, tracking{sale bills})
+	
+Purchase
+	purchase order
+	purchase list(edit , delete, tracking{no of stocks available})
+	vendor list(edit , delete, tracking{purchase bills})
+Report
+	import / export inventory functions (excel, csv)
